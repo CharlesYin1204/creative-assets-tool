@@ -95,3 +95,9 @@ npm run test:complete
 ## 联系方式
 
 微信：`charlesyin6015`
+
+## 开源与参与贡献
+
+本项目采用 [MIT License](LICENSE) 开源。你可以免费下载、部署、修改和分发，但需保留原始版权与许可声明。
+
+初次参与可先点击 GitHub 页面右上角的 **Fork**，在自己的仓库中新建分支并提交修改，再向本仓库发起 Pull Request。问题反馈请使用 Issues，具体流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。请勿在 Issue、代码或截图中提交密码、API 密钥、客户数据等敏感信息。

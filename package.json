@@ -1,6 +1,7 @@
 {
   "name": "creative-assets-tool",
   "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev --hostname 0.0.0.0 --port 3040",
