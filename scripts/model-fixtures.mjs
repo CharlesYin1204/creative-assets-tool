@@ -1,0 +1,9 @@
+// Minimal meshes authored here for format acceptance; no third-party art assets.
+export function modelFixtures(){
+ const positions=Buffer.alloc(36);[-1,-1,0,1,-1,0,0,1,0].forEach((v,i)=>positions.writeFloatLE(v,i*4));
+ const doc={asset:{version:'2.0',generator:'ShareCreators acceptance'},scene:0,scenes:[{nodes:[0]}],nodes:[{mesh:0}],meshes:[{primitives:[{attributes:{POSITION:0},material:0}]}],materials:[{doubleSided:true}],buffers:[{byteLength:positions.length}],bufferViews:[{buffer:0,byteOffset:0,byteLength:36,target:34962}],accessors:[{bufferView:0,componentType:5126,count:3,type:'VEC3',min:[-1,-1,0],max:[1,1,0]}]};
+ const raw=Buffer.from(JSON.stringify(doc));const json=Buffer.concat([raw,Buffer.alloc((4-raw.length%4)%4,32)]);const head=Buffer.alloc(20);head.writeUInt32LE(0x46546c67,0);head.writeUInt32LE(2,4);head.writeUInt32LE(28+json.length+positions.length,8);head.writeUInt32LE(json.length,12);head.writeUInt32LE(0x4e4f534a,16);const binHead=Buffer.alloc(8);binHead.writeUInt32LE(positions.length,0);binHead.writeUInt32LE(0x004e4942,4);const glb=Buffer.concat([head,json,binHead,positions]);
+ const external=structuredClone(doc);external.buffers[0].uri='triangle.bin';
+ const fbx=`; FBX 7.4.0 project file\nFBXHeaderExtension:  {\n\tFBXHeaderVersion: 1003\n\tFBXVersion: 7400\n}\nObjects:  {\n\tGeometry: 1000, "Geometry::Triangle", "Mesh" {\n\t\tVertices: *9 {\n\t\t\ta: -1,-1,0,1,-1,0,0,1,0\n\t\t}\n\t\tPolygonVertexIndex: *3 {\n\t\t\ta: 0,1,-3\n\t\t}\n\t}\n\tModel: 2000, "Model::Triangle", "Mesh" {\n\t\tVersion: 232\n\t}\n}\nConnections:  {\n\tC: "OO",1000,2000\n\tC: "OO",2000,0\n}\n`;
+ return [{name:'triangle.glb',buffer:glb,kind:'model'},{name:'triangle.gltf',buffer:Buffer.from(JSON.stringify(external)),kind:'model'},{name:'triangle.bin',buffer:positions,kind:'texture'},{name:'triangle.fbx',buffer:Buffer.from(fbx),kind:'model'}];
+}

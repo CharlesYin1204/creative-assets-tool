@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.next*/
+logs/
+*.log
+database/backups/
+storage/
+docs/access.txt
+docs/initial-credentials.json
+*.tar.gz
+*.zip
+.DS_Store
+draft_*_folder/
+private/
+AI模型相关文件和数据.txt

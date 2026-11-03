@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "create_time": "2026-10-12T16:39:37.000Z",
+    "modified_time": "2026-10-12T16:40:21.000Z",
+    "revision": 75,
+    "sheets": [
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 0,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "9997f9",
+        "sheet_name": "前端"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 1,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "SRlKyL",
+        "sheet_name": "用户中心"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 2,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "3SH96Y",
+        "sheet_name": "管理员后台"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 3,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "pj1PHw",
+        "sheet_name": "AI 功能"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 4,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "OnOtZh",
+        "sheet_name": "业务规则"
+      }
+    ],
+    "title": "ShareCreators｜三端产品功能与验收清单 V1.0",
+    "token": "FvWQsfoE4hcFZstIax8c77nrngp"
+  }
+}

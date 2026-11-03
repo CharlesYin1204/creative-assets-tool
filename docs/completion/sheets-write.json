@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "sheets": [
+      {
+        "columns": 10,
+        "data_rows": 10,
+        "mode": "overwrite",
+        "name": "前端",
+        "range": "A26:J35",
+        "sheet_id": "9997f9",
+        "writes": 1
+      },
+      {
+        "columns": 10,
+        "data_rows": 3,
+        "mode": "overwrite",
+        "name": "用户中心",
+        "range": "A10:J12",
+        "sheet_id": "SRlKyL",
+        "writes": 1
+      },
+      {
+        "columns": 10,
+        "data_rows": 4,
+        "mode": "overwrite",
+        "name": "管理员后台",
+        "range": "A12:J15",
+        "sheet_id": "3SH96Y",
+        "writes": 1
+      },
+      {
+        "columns": 10,
+        "data_rows": 2,
+        "mode": "overwrite",
+        "name": "AI 功能",
+        "range": "A7:J8",
+        "sheet_id": "pj1PHw",
+        "writes": 1
+      },
+      {
+        "columns": 10,
+        "data_rows": 2,
+        "mode": "overwrite",
+        "name": "业务规则",
+        "range": "A8:J9",
+        "sheet_id": "OnOtZh",
+        "writes": 1
+      }
+    ],
+    "spreadsheet_token": "FvWQsfoE4hcFZstIax8c77nrngp"
+  }
+}

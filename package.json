@@ -1,0 +1,27 @@
+{
+  "name": "sharecreators",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 3040",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0 --port 3040",
+    "seed": "node --env-file=.env.local scripts/seed.mjs",
+    "test": "node --env-file=.env.local scripts/test.mjs",
+    "migrate": "node --env-file=.env.local scripts/migrate-complete.mjs",
+    "test:complete": "node --env-file=.env.local scripts/test-complete.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "lucide-react": "^0.468.0",
+    "mysql2": "^3.15.3",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "prettier": "^3.9.10"
+  }
+}

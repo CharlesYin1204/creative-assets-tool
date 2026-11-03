@@ -1,0 +1,3828 @@
+{
+  "approx_char_count": 41044,
+  "has_more": false,
+  "ranges": [
+    {
+      "actual_range": "A1:J12",
+      "cells": [
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "需求编号"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "模块"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "功能"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "使用角色"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "交互与行为"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "权限与业务规则"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "可观察验收标准"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "入口或实现位置"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "优先级"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#285B42",
+              "font_color": "#FFFFFF",
+              "font_size": 11,
+              "font_weight": "bold",
+              "horizontal_alignment": "center",
+              "vertical_alignment": "middle"
+            },
+            "value": "能力边界"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U01"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "个人资料"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "查看与编辑资料"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "查看角色和邮箱，编辑姓名/工作室名称与个人简介"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "邮箱与角色由管理员维护，不允许自行提权"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "保存后刷新仍显示新资料"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U02"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "安全设置"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "修改登录密码"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "输入当前密码与至少 10 位新密码修改凭据"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "当前密码校验通过；其他已有会话失效"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "旧密码错误被拒绝，新密码可用于下次登录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U03"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "会话管理"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "退出登录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "清除当前服务端会话与浏览器 Cookie"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "退出后业务接口必须重新认证"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "退出后访问 me 返回 401"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U04"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "消息通知"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "协作通知与已读"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "汇总任务分配、审阅、评论、验收与升级通知，点击跳转；全部已读"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "只读取当前用户通知，已读状态持久化"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "其他用户通知不可见，已读后未读徽标消失"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U05"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "我的交付"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "个人任务与版本入口"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "聚合分配给自己的任务、状态与版本数"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "不展示他人负责的交付任务"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "点任务进入详情，可打开历史版本"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U06"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "收藏夹"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "收藏与取消收藏"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "内部成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "在资产卡片或详情收藏，收藏页集中展示"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "收藏关联用户和资产，外包无正式库收藏权限"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "重新登录后收藏仍存在，取消后移除"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account/favorites"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U07"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "复用记录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "我的引用与手动升级"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "内部成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "展示目标项目、当前版本和最新版本，可确认升级"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "只能操作自己的引用且对目标项目仍有权限"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "最新版显示状态，旧版显示升级按钮"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account/reuses"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U08"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "AI 历史"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "个人 AI 记录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "查看本人各项 AI 请求和结果，点击回看"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "其他成员请求正文不可见；失败记录保留状态"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "历史刷新后仍存在且仅显示本人记录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/assistant"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "详见需求文档"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U09"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "消息通知"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "分页与单条已读"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "每页 20 条，查看全部/未读、单条标记或全部已读，准确展示未读总数"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "仅可更改自己的通知"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "23 条测试数据分两页，单条已读总数减一，越权操作返回 404"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "V1.1 新增"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U10"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "复用记录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "移除引用与历史文件访问"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "引用本人/管理员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "移除项目引用；保留引用时即使资产有新版也能下载固定旧版"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "引用归属鉴权；移除后无项目源权限者失去旧文件访问"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "旧版引用下载 200，删除引用后旧文件 403"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/account/reuses"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "V1.1 新增"
+          }
+        ],
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U11"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "AI 历史"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "完整调用历史分页"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "每页 20 条本人各项 AI 记录；查看完整请求、回答、失败原因和模型"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "其他用户不能读取个人历史正文"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "超过一页时可翻页，结果弹窗展示正确正文"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/assistant/history"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "V1.1 新增"
+          }
+        ]
+      ],
+      "col_indices": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ],
+      "range": "A1:J12",
+      "row_indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "truncated": false
+    }
+  ],
+  "returned_cell_count": 120,
+  "revision": 85,
+  "warning_message": "处理 ranges[n].cells 之前，必须先查看顶层 has_more，以及每个 range 的 actual_range / row_indices / col_indices。定位真实行号时用 row_indices[i]，定位真实列字母时用 col_indices[j]，不要按二维数组下标自己数行列；skip_hidden=true、skip_filter=true 或结果被截断时，这样会错位。"
+}

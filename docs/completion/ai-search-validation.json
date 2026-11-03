@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-12T17:30:18.618Z",
+  "passed": true,
+  "validAndEmptyCases": 2,
+  "invalidCases": 7,
+  "realProviderResponseValidated": true,
+  "returnedAssetIds": [
+    16,
+    4
+  ]
+}

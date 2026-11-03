@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-10-12T17:32:29.346Z",
+  "origin": "http://154.40.47.111:3040",
+  "checks": [
+    {
+      "route": "/assets",
+      "passed": true
+    },
+    {
+      "route": "/account",
+      "passed": true
+    },
+    {
+      "route": "/admin",
+      "passed": true
+    },
+    {
+      "route": "/assistant",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "document": {
+      "content": "<fragment mode=\"keyword\" keyword=\"AI 最终实测状态|当前真实 AI 验收已通过\"><p id=\"doxcnKFr4UvXXTs2Cf31UCBmPrg\">AI 最终实测状态（2026-10-13）：充值后，正式服务上的审阅总结、标签建议和语义搜索均返回 HTTP 200 与真实模型结果。总结正确区分 V1/V2；标签返回 7 个相关词；“适合森林场景的枯树”检索返回已验收资产 4、16。结合此前两个模型连接、多轮上下文、创作助手及制作要求起草的真实验证，五项 AI 功能及多轮对话均已验证。此前 insufficient_user_quota 余额阻塞已解除，失败处理和重试入口保留。</p><p id=\"doxcnOnohpc3VItLzuCWgO99gvg\">验收证据保存在服务器 docs/completion/，包括 api-results.json、browser-results.json、account-results.json、ai-features.json、ai-search-validation.json 与飞书逐项回读记录。需求文档和三端功能表已同步为 74 条需求。原余额不足记录仅作为历史排障证据；当前真实 AI 验收已通过。</p></fragment>",
+      "document_id": "Wp76dBrOFoGRqnxe1aUcS6eGn6g",
+      "revision_id": 16
+    }
+  }
+}

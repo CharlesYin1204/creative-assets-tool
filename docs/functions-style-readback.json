@@ -1,0 +1,682 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "approx_char_count": 7209,
+    "has_more": false,
+    "ranges": [
+      {
+        "actual_range": "A1:J2",
+        "cells": [
+          [
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "需求编号"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "模块"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "功能"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "使用角色"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "交互与行为"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "权限与业务规则"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "可观察验收标准"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "入口或实现位置"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "优先级"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#285B42",
+                "font_color": "#FFFFFF",
+                "font_size": 11,
+                "font_weight": "bold",
+                "horizontal_alignment": "center",
+                "vertical_alignment": "middle"
+              },
+              "value": "能力边界"
+            }
+          ],
+          [
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "background_color": "#F0F6F1",
+                "font_color": "#33483B",
+                "font_size": 11,
+                "font_weight": "bold",
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "F01"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "产品入口"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "产品首页"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "访客"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "展示定位、提交到复用流程与 AI 能力，进入登录页"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "无账号不能读取业务数据"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "首页能打开；未登录业务 API 返回 401"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "/"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "P0"
+            },
+            {
+              "border_styles": {
+                "bottom": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "left": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "right": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                },
+                "top": {
+                  "color": "#E2E9E3",
+                  "style": "solid",
+                  "weight": "thin"
+                }
+              },
+              "cell_styles": {
+                "font_color": "#33483B",
+                "font_size": 11,
+                "number_format": "@",
+                "vertical_alignment": "middle"
+              },
+              "value": "详见需求文档"
+            }
+          ]
+        ],
+        "col_indices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ],
+        "range": "A1:J2",
+        "row_indices": [
+          1,
+          2
+        ],
+        "truncated": false
+      }
+    ],
+    "returned_cell_count": 20,
+    "revision": 75,
+    "warning_message": "处理 ranges[n].cells 之前，必须先查看顶层 has_more，以及每个 range 的 actual_range / row_indices / col_indices。定位真实行号时用 row_indices[i]，定位真实列字母时用 col_indices[j]，不要按二维数组下标自己数行列；skip_hidden=true、skip_filter=true 或结果被截断时，这样会错位。"
+  }
+}

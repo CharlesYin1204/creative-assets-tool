@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "document": {
+      "content": "<fragment mode=\"keyword\" keyword=\"V1.1 验证记录\"><h2 id=\"doxcnsiupcGjT1io7wtWBObIhld\">V1.1 验证记录与当前 AI 服务状态（2026-10-13）</h2><p id=\"doxcnXotV5ROFAWOiH5xq4PFigg\">已完成新增 18 组接口验收、18 组新增浏览器验收、4 组用户资料/安全/历史记录验收和 13 组原页面浏览器回归。三维验收实际上传并解析 OBJ、GLB、含 BIN 依赖的 GLTF 与 FBX，完成模型位置评论、相机恢复和双版本对比；360/768/1440px 新模块布局未出现页面横向溢出。测试使用临时业务数据并在结束清理。</p><p id=\"doxcne7cRBB3FR7Ew77sqZ20Clc\">AI 实测状态：两个已配置模型的连接测试、多轮上下文、创作助手及制作要求起草已返回真实结果。随后服务方对两个模型均返回 HTTP 403，错误码 insufficient_user_quota（账户余额不足）。当前发布的审阅总结、标签建议与语义搜索尚未完成最终真实复验，需充值现有 API 账户或配置有余额的服务凭据。程序保留真实错误与调用记录，不返回模拟成功；此项尚不能标为整体验收完成。</p><p id=\"doxcnP6K8Cr453XRrGxgZTrAP4c\">验收证据保存在服务器 docs/completion/，包括 api-results.json、browser-results.json、account-results.json、ai-blocker.json 与飞书逐项回读记录。代码、数据库迁移与功能需求已经落盘，部署后仍需等待 AI 余额恢复再完成余下真实复验。</p></fragment>",
+      "document_id": "Wp76dBrOFoGRqnxe1aUcS6eGn6g",
+      "revision_id": 14
+    }
+  }
+}

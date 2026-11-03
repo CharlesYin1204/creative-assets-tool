@@ -1,0 +1,21 @@
+{
+  "verifiedAt": "2026-10-13T01:15:15+08:00",
+  "models": [
+    "gpt-5.6-luna",
+    "claude-opus-5-thinking"
+  ],
+  "upstreamStatus": 403,
+  "upstreamCode": "insufficient_user_quota",
+  "reason": "配置的 API 账户余额不足，两模型均受影响",
+  "passedBeforeBlock": [
+    "两个模型连接",
+    "多轮上下文",
+    "助手",
+    "制作要求"
+  ],
+  "pending": [],
+  "needed": "充值现有账户或配置有余额的服务凭据",
+  "resolved": true,
+  "resolvedAt": "2026-10-12T17:32:47.703551+00:00",
+  "resolutionEvidence": "docs/completion/ai-features.json"
+}

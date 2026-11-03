@@ -1,0 +1,15 @@
+{
+  "blocker": "AI provider insufficient_user_quota",
+  "consecutiveGoalTurnsObserved": 3,
+  "countingRule": "每个实际 goal continuation 回合最多计一次，并非 API 请求次数。下一回合仍需重新检查外部服务状态。",
+  "firstTurnEvidence": "docs/completion/ai-blocker.json",
+  "secondTurnEvidence": "docs/completion/ai-recheck.json",
+  "independentWorkCompletedThisTurn": "模型损坏/图片回退/恢复预览三项浏览器验收；生产构建哈希和健康检查",
+  "awaiting": "用户为 API 账户充值或提供有余额的服务凭据",
+  "goalStatus": "complete",
+  "thirdTurnEvidence": "docs/completion/ai-recheck-third.json",
+  "resolved": true,
+  "resolvedAt": "2026-10-12T17:32:47.703551+00:00",
+  "resolutionEvidence": "docs/completion/ai-features.json",
+  "pending": []
+}

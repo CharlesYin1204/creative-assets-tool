@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-10-12T17:31:12.726Z",
+  "models": [
+    {
+      "model": "gpt-5.6-luna",
+      "enabled": 1,
+      "is_default": 1
+    },
+    {
+      "model": "claude-opus-5-thinking",
+      "enabled": 1,
+      "is_default": 0
+    }
+  ],
+  "success": [
+    {
+      "feature": "assistant",
+      "model": "gpt-5.6-luna",
+      "calls": 5,
+      "last_success": "2026-10-13 01:13:55"
+    },
+    {
+      "feature": "connectivity",
+      "model": "claude-opus-5-thinking",
+      "calls": 3,
+      "last_success": "2026-10-13 01:13:50"
+    },
+    {
+      "feature": "connectivity",
+      "model": "gpt-5.6-luna",
+      "calls": 3,
+      "last_success": "2026-10-13 01:13:46"
+    },
+    {
+      "feature": "requirements",
+      "model": "gpt-5.6-luna",
+      "calls": 2,
+      "last_success": "2026-10-13 01:14:15"
+    },
+    {
+      "feature": "search",
+      "model": "gpt-5.6-luna",
+      "calls": 2,
+      "last_success": "2026-10-13 01:29:50"
+    },
+    {
+      "feature": "summary",
+      "model": "gpt-5.6-luna",
+      "calls": 2,
+      "last_success": "2026-10-13 01:29:30"
+    },
+    {
+      "feature": "tags",
+      "model": "gpt-5.6-luna",
+      "calls": 2,
+      "last_success": "2026-10-13 01:29:42"
+    }
+  ]
+}

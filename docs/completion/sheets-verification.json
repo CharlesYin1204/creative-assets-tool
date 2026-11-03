@@ -1,0 +1,37 @@
+[
+  {
+    "side": "前端",
+    "originalRows": 24,
+    "addedRows": 10,
+    "allValuesMatch": true,
+    "truncatedCells": []
+  },
+  {
+    "side": "用户中心",
+    "originalRows": 8,
+    "addedRows": 3,
+    "allValuesMatch": true,
+    "truncatedCells": []
+  },
+  {
+    "side": "管理员后台",
+    "originalRows": 10,
+    "addedRows": 4,
+    "allValuesMatch": true,
+    "truncatedCells": []
+  },
+  {
+    "side": "AI 功能",
+    "originalRows": 5,
+    "addedRows": 2,
+    "allValuesMatch": true,
+    "truncatedCells": []
+  },
+  {
+    "side": "业务规则",
+    "originalRows": 6,
+    "addedRows": 2,
+    "allValuesMatch": true,
+    "truncatedCells": []
+  }
+]

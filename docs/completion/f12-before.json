@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "document": {
+      "content": "<fragment mode=\"section\" requested-start=\"doxcng7jiWplC4iioqml81gi3mb\"><h2 id=\"doxcng7jiWplC4iioqml81gi3mb\" seq=\"auto\" seq-marker=\"5.12\">F12 在线审阅：预览、缩放与模拟旋转</h2><p id=\"doxcn7QPvCn4GBlX7GbdWSgQuM8\">参与者：任务可见成员。入口：/review/:id。</p><p id=\"doxcnOX7Z04wuUVYD76kHF3ztdf\">行为：预览已上传图片或示意图，可缩放及平面旋转。</p><p id=\"doxcnE9LD7m7f9EVosA0g9lNeoc\">权限与边界：明确为图片模拟视角，不进行 3D 几何解析。</p><p id=\"doxcnHbMd6Jz8WwXYIZ3qrF8nzg\">验收：预览控件响应；无图时显示不能预览及下载/补图指引。原文明确允许图片模拟；不宣称真实 3D 旋转。</p></fragment>",
+      "document_id": "Wp76dBrOFoGRqnxe1aUcS6eGn6g",
+      "revision_id": 8
+    }
+  }
+}

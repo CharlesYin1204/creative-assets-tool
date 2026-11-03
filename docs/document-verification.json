@@ -1,0 +1,13 @@
+{
+  "prd_readback": true,
+  "requirements": 53,
+  "sheets": {
+    "前端": 24,
+    "用户中心": 8,
+    "管理员后台": 10,
+    "AI 功能": 5,
+    "业务规则": 6
+  },
+  "all_cells_match": true,
+  "styles_readback": true
+}

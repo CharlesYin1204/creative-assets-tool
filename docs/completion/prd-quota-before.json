@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "document": {
+      "content": "<fragment mode=\"keyword\" keyword=\"不足|尚未|待充值|余额恢复\"><p id=\"doxcneq1OAK2Evryum32oz8KAAg\">问题来源是参考方案中的设计假设：交付要求与反馈分散，评论缺少版本和位置，成果未沉淀为可复用素材。尚未进行真实客户访谈，不预设返工率、降本比例或采用率。验收以可观察流程与权限结果为准。</p><p id=\"doxcne7cRBB3FR7Ew77sqZ20Clc\">AI 实测状态：两个已配置模型的连接测试、多轮上下文、创作助手及制作要求起草已返回真实结果。随后服务方对两个模型均返回 HTTP 403，错误码 insufficient_user_quota（账户余额不足）。当前发布的审阅总结、标签建议与语义搜索尚未完成最终真实复验，需充值现有 API 账户或配置有余额的服务凭据。程序保留真实错误与调用记录，不返回模拟成功；此项尚不能标为整体验收完成。</p><p id=\"doxcnP6K8Cr453XRrGxgZTrAP4c\">验收证据保存在服务器 docs/completion/，包括 api-results.json、browser-results.json、account-results.json、ai-blocker.json 与飞书逐项回读记录。代码、数据库迁移与功能需求已经落盘，部署后仍需等待 AI 余额恢复再完成余下真实复验。</p></fragment>",
+      "document_id": "Wp76dBrOFoGRqnxe1aUcS6eGn6g",
+      "revision_id": 14
+    }
+  }
+}

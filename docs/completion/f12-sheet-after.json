@@ -1,0 +1,345 @@
+{
+  "approx_char_count": 3470,
+  "has_more": false,
+  "ranges": [
+    {
+      "actual_range": "A13:J13",
+      "cells": [
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "F12"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "在线审阅"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "图片与真实三维预览"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "任务可见成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "图片缩放旋转；新增 OBJ、FBX、GLB/GLTF 几何预览、相机控制与线框，详见 F31/F32"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "文件逐请求鉴权；模型依赖须属于同一版本；损坏或不支持的编码提示图片/下载回退"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "图片控件响应；标准模型真实渲染、三维定位可恢复；解析失败不显示成功"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/review/:id"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "V1.1 已扩展真实三维；BLEND/ZIP 仅用于交付下载"
+          }
+        ]
+      ],
+      "col_indices": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ],
+      "range": "A13:J13",
+      "row_indices": [
+        13
+      ],
+      "truncated": false
+    }
+  ],
+  "returned_cell_count": 10,
+  "revision": 87,
+  "warning_message": "处理 ranges[n].cells 之前，必须先查看顶层 has_more，以及每个 range 的 actual_range / row_indices / col_indices。定位真实行号时用 row_indices[i]，定位真实列字母时用 col_indices[j]，不要按二维数组下标自己数行列；skip_hidden=true、skip_filter=true 或结果被截断时，这样会错位。"
+}

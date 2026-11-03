@@ -1,0 +1,79 @@
+{
+  "timestamp": "2026-10-12T17:15:25.113Z",
+  "origin": "http://127.0.0.1:3041",
+  "results": [
+    {
+      "name": "项目编辑及成员窗口可操作",
+      "passed": true
+    },
+    {
+      "name": "任务编辑实际保存并刷新详情",
+      "passed": true
+    },
+    {
+      "name": "上传失败可原文件重试，刷新恢复模型和说明",
+      "passed": true
+    },
+    {
+      "name": "真实 OBJ 渲染、三维表面标注、评论点击恢复相机",
+      "passed": true
+    },
+    {
+      "name": "评论作者编辑并持久化",
+      "passed": true
+    },
+    {
+      "name": "triangle.glb 真实浏览器解析成功",
+      "passed": true
+    },
+    {
+      "name": "triangle.gltf 真实浏览器解析成功",
+      "passed": true
+    },
+    {
+      "name": "triangle.fbx 真实浏览器解析成功",
+      "passed": true
+    },
+    {
+      "name": "双版本三维模型并排渲染",
+      "passed": true
+    },
+    {
+      "name": "/projects浏览器页面可用",
+      "passed": true
+    },
+    {
+      "name": "/assistant浏览器页面可用",
+      "passed": true
+    },
+    {
+      "name": "/assistant/history浏览器页面可用",
+      "passed": true
+    },
+    {
+      "name": "/account浏览器页面可用",
+      "passed": true
+    },
+    {
+      "name": "/admin浏览器页面可用",
+      "passed": true
+    },
+    {
+      "name": "管理员审计翻页可操作",
+      "passed": true
+    },
+    {
+      "name": "360px 新增模块与三维画布无页面横向溢出",
+      "passed": true
+    },
+    {
+      "name": "768px 新增模块与三维画布无页面横向溢出",
+      "passed": true
+    },
+    {
+      "name": "1440px 新增模块与三维画布无页面横向溢出",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

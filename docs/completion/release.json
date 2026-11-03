@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-10-12T17:32:47.703551+00:00",
+  "url": "http://154.40.47.111:3040/",
+  "buildId": "ofKf16cKKhH_VWboK2Ev1",
+  "database": "sharecreators",
+  "service": "sharecreators.service",
+  "rollbackDirectory": ".next-complete",
+  "counts": {
+    "users": 5,
+    "projects": 2,
+    "tasks": 18,
+    "versions": 18,
+    "files": 38,
+    "ai_models": 2,
+    "task_drafts": 0,
+    "ai_conversations": 0,
+    "ai_messages": 0
+  },
+  "sha": {
+    "app/[[...path]]/page.jsx": "a9e682a303f860257f9903c565488b8dd7d2fa7ab4bbee4a570bbb0b56ddd4f6",
+    "app/api/[...path]/route.js": "eac6d303b2e6f779cc4aaac82d41f9173c10b8c0f67a9db3486064516196a4ee",
+    "app/components/ModulePanels.jsx": "761b666dda9c4da26da0aea955de3cc269435e0328cee61985e05a7edcf10056",
+    "app/components/ModelViewer.jsx": "3726ca218342d6f04fb4129b19f3d22646734f9035501dd4e6fea97cec1a5df5",
+    "lib/modules.mjs": "e422c5993d55aa55560ce22f8f5b21b2ee3d162c4633b6696135c9399d33367c",
+    "lib/ai.mjs": "eb5cf6f4ffda5121f8c91ba364e8e5ca87d207cde000c8286483f4f63e09a3ad",
+    "database/schema.sql": "76a727a05b7add2a5b0156e10e663f2fe68989520efd93c26bfefcd2d9353b1a",
+    "lib/ai-search.mjs": "e8cee9efbfd119ea5fd5c4f5f2882efc8e0018e8e9ff53b87874784477548918"
+  },
+  "goalComplete": true,
+  "pending": null,
+  "buildDirectory": ".next-final",
+  "finalAIProof": "docs/completion/ai-features.json"
+}

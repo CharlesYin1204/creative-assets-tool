@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-10-12T17:08:28.300Z",
+  "origin": "http://127.0.0.1:3041",
+  "results": [
+    {
+      "name": "项目编辑、乐观锁与角色权限",
+      "passed": true
+    },
+    {
+      "name": "成员移除立即撤销访问且创建人受保护",
+      "passed": true
+    },
+    {
+      "name": "任务编辑冲突、日期及格式校验",
+      "passed": true
+    },
+    {
+      "name": "任务重新分配与负责人访问即时更新",
+      "passed": true
+    },
+    {
+      "name": "上传与说明草稿持久化、隔离和移除",
+      "passed": true
+    },
+    {
+      "name": "任务归档只读与恢复",
+      "passed": true
+    },
+    {
+      "name": "项目归档阻止任务和交付写入",
+      "passed": true
+    },
+    {
+      "name": "提交清除草稿，历史文件不可删除，审阅中不可换负责人",
+      "passed": true
+    },
+    {
+      "name": "三维评论绑定正确版本，坐标保存及作者编辑权限",
+      "passed": true
+    },
+    {
+      "name": "验收后评论不可改写",
+      "passed": true
+    },
+    {
+      "name": "下架阻止新访问，已有引用保留；已有跨项目引用禁止收紧授权",
+      "passed": true
+    },
+    {
+      "name": "引用固定历史版本可下载，移除引用后撤销历史文件访问",
+      "passed": true
+    },
+    {
+      "name": "管理员资料编辑及密码重置撤销全部会话",
+      "passed": true
+    },
+    {
+      "name": "通知分页、未读数和归属权限",
+      "passed": true
+    },
+    {
+      "name": "管理员日志完整分页、CSV 导出与访问控制",
+      "passed": true
+    },
+    {
+      "name": "模型参数持久化、无效配置拒绝且密钥不回传",
+      "passed": true
+    },
+    {
+      "name": "真实 AI 多轮上下文与消息持久化",
+      "passed": true
+    },
+    {
+      "name": "AI 会话隔离、重命名、归档与恢复",
+      "passed": true
+    }
+  ]
+}

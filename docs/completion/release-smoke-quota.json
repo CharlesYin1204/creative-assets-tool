@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-10-12T17:19:54.652Z",
+  "origin": "http://154.40.47.111:3040",
+  "results": [
+    {
+      "name": "管理员参考资料上传与移除",
+      "passed": true
+    },
+    {
+      "name": "当前来源的上传、说明保存和刷新恢复",
+      "passed": true
+    },
+    {
+      "name": "真实上游余额不足显示具体错误、保留对话并提供重试",
+      "passed": true
+    },
+    {
+      "name": "AI 调用历史正文可回看",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

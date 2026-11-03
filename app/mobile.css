@@ -1,0 +1,221 @@
+.mobile-bottom-nav {
+  display: none;
+}
+.directory-heading {
+  margin-bottom: 24px;
+}
+.directory-heading h2 {
+  margin: 0 0 6px;
+  font-size: 21px;
+}
+.directory-heading p {
+  margin: 0;
+  color: #737488;
+  font-size: 13px;
+}
+.function-group + .function-group {
+  margin-top: 28px;
+}
+.function-group h3 {
+  font-size: 14px;
+  margin: 0 0 12px;
+  color: #737488;
+  font-weight: 600;
+}
+.function-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0 22px;
+}
+.function-entry {
+  display: flex;
+  align-items: center;
+  min-height: 86px;
+  gap: 12px;
+  padding: 14px 0;
+  border-bottom: 1px solid #eeeef5;
+  min-width: 0;
+}
+.function-entry:hover {
+  color: #6955d8;
+  background: #faf9ff;
+}
+.function-entry > span:nth-child(2) {
+  flex: 1;
+  min-width: 0;
+}
+.function-entry b {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+}
+.function-entry small {
+  display: block;
+  font-size: 12px;
+  color: #737488;
+  margin-top: 5px;
+  line-height: 1.5;
+}
+.function-icon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 11px;
+  background: #eeebfc;
+  color: #6955d8;
+}
+.function-entry > svg {
+  flex-shrink: 0;
+  color: #a4a3b4;
+}
+.mobile-bottom-nav a:focus-visible,
+.function-entry:focus-visible {
+  outline: 2px solid #6955d8;
+  outline-offset: -2px;
+}
+@media (max-width: 1000px) {
+  .function-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 680px) {
+  .main-shell {
+    padding-bottom: calc(74px + env(safe-area-inset-bottom, 0px));
+  }
+  .mobile-bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    background: #fff;
+    border-top: 1px solid #e7e5f0;
+    padding: 5px max(6px, env(safe-area-inset-right, 0px))
+      calc(5px + env(safe-area-inset-bottom, 0px))
+      max(6px, env(safe-area-inset-left, 0px));
+  }
+  .mobile-bottom-nav a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 54px;
+    gap: 3px;
+    font-size: 11px;
+    line-height: 1.4;
+    font-weight: 600;
+    color: #737488;
+    border-radius: 10px;
+    -webkit-tap-highlight-color: #eeebfc;
+  }
+  .mobile-bottom-nav a.active {
+    color: #6955d8;
+    background: #f3f0fe;
+  }
+  .mobile-nav-icon {
+    position: relative;
+    display: flex;
+  }
+  .mobile-nav-icon i {
+    position: absolute;
+    right: -5px;
+    top: -2px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #d44961;
+    border: 1px solid white;
+  }
+  .toast {
+    bottom: calc(86px + env(safe-area-inset-bottom, 0px));
+  }
+  .shell input,
+  .shell select,
+  .shell textarea {
+    font-size: 16px;
+  }
+  .shell .btn,
+  .shell .iconbtn,
+  .notification-icon,
+  .tabs button,
+  .admin-tabs button {
+    min-height: 44px;
+  }
+  .shell .iconbtn,
+  .notification-icon {
+    min-width: 44px;
+  }
+  .notification-icon {
+    display: grid;
+    place-items: center;
+  }
+  .tabs {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    scrollbar-width: thin;
+  }
+  .tabs button {
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .account-banner {
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 18px;
+  }
+  .account-banner > div {
+    min-width: 0;
+  }
+  .account-banner p {
+    overflow-wrap: anywhere;
+  }
+  .account-banner .pill {
+    margin-left: 0;
+  }
+  .account-directory .directory-heading {
+    margin-bottom: 22px;
+  }
+  .function-grid {
+    gap: 0 14px;
+  }
+  .function-entry {
+    gap: 8px;
+    align-items: flex-start;
+    min-height: 104px;
+  }
+  .function-icon {
+    width: 32px;
+    height: 36px;
+    border-radius: 9px;
+  }
+  .function-icon svg {
+    width: 18px;
+  }
+  .function-entry b {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .function-entry small {
+    font-size: 11px;
+  }
+  .function-entry > svg {
+    display: none;
+  }
+  .function-group + .function-group {
+    margin-top: 24px;
+  }
+  .account-form {
+    max-width: 100%;
+  }
+  .reuse-row,
+  .notification-row {
+    flex-wrap: wrap;
+  }
+  .overlay {
+    padding-bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  }
+}

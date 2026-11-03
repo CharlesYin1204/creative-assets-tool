@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "origin": "http://154.40.47.111:3040",
+  "build": "3FKHeteSj3OYwJG51bUQx",
+  "deployedAt": "2026-10-14T07:39:46.314Z",
+  "checks": [
+    "公网真实登录成功",
+    "移动端底栏进入用户中心",
+    "管理员全部 19 个功能入口可见"
+  ],
+  "rollbackBuild": ".next-final"
+}

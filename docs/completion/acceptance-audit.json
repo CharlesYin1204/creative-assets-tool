@@ -1,0 +1,1232 @@
+{
+  "totalRequirements": 74,
+  "goalComplete": true,
+  "pending": null,
+  "items": [
+    {
+      "id": "F01",
+      "name": "产品首页",
+      "acceptance": "首页能打开；未登录业务 API 返回 401",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F02",
+      "name": "账号密码登录",
+      "acceptance": "正确登录进入工作台，错误密码不创建会话",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F03",
+      "name": "任务统计与项目筛选",
+      "acceptance": "外包账号看不到另一外包的任务或数量",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F04",
+      "name": "关注事项与近期交付",
+      "acceptance": "卡片链接打开对应任务，状态与列表一致",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F05",
+      "name": "新建项目",
+      "acceptance": "创建后出现在可见项目列表，可在其中创建任务",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F06",
+      "name": "创建与分配交付任务",
+      "acceptance": "提交后负责人收到通知并可查看制作要求",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F07",
+      "name": "任务列表筛选",
+      "acceptance": "输入关键词及切换状态能准确收敛列表",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F08",
+      "name": "要求与参考资料",
+      "acceptance": "任务详情展示完整要求，越权参考文件下载被拒绝",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F09",
+      "name": "分类上传文件",
+      "acceptance": "错误格式被拒绝；上传失败提示文件名，保留当前页面成功文件",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F10",
+      "name": "完整性检查与提交审阅",
+      "acceptance": "缺贴图返回可理解错误；补齐后成功生成新版本",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F11",
+      "name": "不可覆盖版本历史",
+      "acceptance": "提交 V2 后 V1 文件、意见与回复仍可访问",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F12",
+      "name": "图片与真实三维预览",
+      "acceptance": "图片控件响应；标准模型真实渲染、三维定位可恢复；解析失败不显示成功",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json",
+        "docs/completion/preview-fallback-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F13",
+      "name": "版本与位置标注",
+      "acceptance": "点击评论恢复对应视角并高亮标注，切版本仅显示对应意见",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F14",
+      "name": "评论回复与处理",
+      "acceptance": "外包回复可见，外包调用解决接口返回 403",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F15",
+      "name": "双版本对比",
+      "acceptance": "V1/V2 图片和说明可区分，历史意见可追溯",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F16",
+      "name": "请求修改",
+      "acceptance": "旧版验收请求被拒绝，修改原因进入对应版本评论",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F17",
+      "name": "验收通过并入库",
+      "acceptance": "未解决意见阻止通过；通过后正式库出现该资产",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F18",
+      "name": "正式资产列表",
+      "acceptance": "待修改首版不入库；既有资产新提交仍显示原验收版",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F19",
+      "name": "关键词及分类检索",
+      "acceptance": "关键词输入后仅显示匹配资产，可清除条件",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F20",
+      "name": "来源、授权与交付下载",
+      "acceptance": "详情明确授权限制；无权限下载不返回文件内容",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F21",
+      "name": "授权确认与加入项目",
+      "acceptance": "不确认授权不能加入；受限素材跨项目返回 403",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F22",
+      "name": "版本固定与升级通知",
+      "acceptance": "发布新版后旧引用不变，确认升级后版本更新",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F23",
+      "name": "加载、空状态与错误反馈",
+      "acceptance": "关键操作失败有可理解提示，页面未崩溃",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json",
+        "docs/completion/preview-fallback-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F24",
+      "name": "桌面与移动端",
+      "acceptance": "工作台、资产库、审阅和后台移动端检查通过",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U01",
+      "name": "查看与编辑资料",
+      "acceptance": "保存后刷新仍显示新资料",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U02",
+      "name": "修改登录密码",
+      "acceptance": "旧密码错误被拒绝，新密码可用于下次登录",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U03",
+      "name": "退出登录",
+      "acceptance": "退出后访问 me 返回 401",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U04",
+      "name": "协作通知与已读",
+      "acceptance": "其他用户通知不可见，已读后未读徽标消失",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U05",
+      "name": "个人任务与版本入口",
+      "acceptance": "点任务进入详情，可打开历史版本",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U06",
+      "name": "收藏与取消收藏",
+      "acceptance": "重新登录后收藏仍存在，取消后移除",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U07",
+      "name": "我的引用与手动升级",
+      "acceptance": "最新版显示状态，旧版显示升级按钮",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U08",
+      "name": "个人 AI 记录",
+      "acceptance": "历史刷新后仍存在且仅显示本人记录",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A01",
+      "name": "业务与服务统计",
+      "acceptance": "统计与数据库查询结果一致",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A02",
+      "name": "创建协作成员",
+      "acceptance": "新用户可登录，重复邮箱返回明确错误",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A03",
+      "name": "角色变更与停启用",
+      "acceptance": "停用立即使旧会话失效，非管理员操作被拒绝",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A04",
+      "name": "项目成员授权",
+      "acceptance": "添加内部成员后可看该项目；外包添加被拒绝",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A05",
+      "name": "任务创建与交付监督",
+      "acceptance": "管理员可以完整走通交付与验收流程",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A06",
+      "name": "新增与编辑服务",
+      "acceptance": "模型列表只显示凭据来源，不包含原始 key",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A07",
+      "name": "默认模型与启停",
+      "acceptance": "更换默认后调用记录显示对应模型",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A08",
+      "name": "真实连接测试",
+      "acceptance": "两个预置模型都返回连接成功",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "A09",
+      "name": "AI 调用监控",
+      "acceptance": "失败与成功都可追踪，tokens 不伪造",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A10",
+      "name": "关键操作日志",
+      "acceptance": "日志包含操作者、动作、对象与时间",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "AI01",
+      "name": "上下文问答",
+      "acceptance": "实际 API 返回答案；外包上下文不含他人任务",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "AI02",
+      "name": "制作要求起草",
+      "acceptance": "生成文本填入表单，未提交前不创建任务",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "AI03",
+      "name": "审阅意见总结",
+      "acceptance": "实际生成分版本总结并保存个人调用记录",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "AI04",
+      "name": "标签建议与确认",
+      "acceptance": "生成未确认时旧标签不变；确认后库中可检索新标签",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "AI05",
+      "name": "自然语言语义搜索",
+      "acceptance": "搜索枯树得到匹配结果；模型格式错误给重试提示",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "B01",
+      "name": "外包任务隔离",
+      "acceptance": "不同外包互读任务和文件均返回 403",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B02",
+      "name": "最新版本审阅",
+      "acceptance": "旧版决策返回 409，并发提交不重复生成版本",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B03",
+      "name": "验收版本指针",
+      "acceptance": "列表和详情不把新待审版本作为正式下载版",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B04",
+      "name": "授权范围校验",
+      "acceptance": "修改前端请求也不能绕过 source_only 限制",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B05",
+      "name": "通知与显式确认",
+      "acceptance": "通知到达后版本不变，确认后才更新",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B06",
+      "name": "会话、限流与文件保护",
+      "acceptance": "未登录 401、非管理员 403、跨站写 403、图片伪造 400",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F25",
+      "name": "编辑、归档与恢复",
+      "acceptance": "两个窗口并发编辑，旧窗口被拒；归档写入失败且恢复有效",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F26",
+      "name": "项目成员移除",
+      "acceptance": "移除后原账号立即失去该项目访问",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F27",
+      "name": "任务编辑与重新分配",
+      "acceptance": "重新分配撤销原外包访问并通知双方；无效日期和格式被拒",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F28",
+      "name": "任务归档与恢复",
+      "acceptance": "归档提交返回 409；恢复后可正常继续交付",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F29",
+      "name": "上传队列、进度与失败重试",
+      "acceptance": "模拟一次失败后点击重试成功；公网 HTTP 上传正常",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F30",
+      "name": "持久化草稿",
+      "acceptance": "刷新仍显示已上传文件和说明；删除未提交文件后不可下载",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F31",
+      "name": "真实三维模型预览",
+      "acceptance": "真实几何在 WebGL 画布显示，模型统计与文件一致",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json",
+        "docs/completion/preview-fallback-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F32",
+      "name": "三维位置意见与双版对比",
+      "acceptance": "三维标注写入数据库；点击评论自动切换三维并还原位置",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F33",
+      "name": "评论作者编辑",
+      "acceptance": "本人可保存、他人 403、验收后 409",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "F34",
+      "name": "下架、恢复与手工标签",
+      "acceptance": "下架详情返回 404；已有引用仍可下载固定版；恢复后重现",
+      "implementation": [
+        "app/components/ModulePanels.jsx",
+        "app/components/ModelViewer.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U09",
+      "name": "分页与单条已读",
+      "acceptance": "23 条测试数据分两页，单条已读总数减一，越权操作返回 404",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U10",
+      "name": "移除引用与历史文件访问",
+      "acceptance": "旧版引用下载 200，删除引用后旧文件 403",
+      "implementation": [
+        "app/[[...path]]/page.jsx",
+        "app/components/ModulePanels.jsx",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "U11",
+      "name": "完整调用历史分页",
+      "acceptance": "超过一页时可翻页，结果弹窗展示正确正文",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/completion/account-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A11",
+      "name": "编辑姓名与邮箱",
+      "acceptance": "修改后重新查询显示新资料，重复邮箱返回冲突",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A12",
+      "name": "重置用户密码",
+      "acceptance": "旧会话 401，新密码可登录",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A13",
+      "name": "回复长度与超时配置",
+      "acceptance": "参数保存后回读一致，越界配置拒绝，密钥不回传",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "A14",
+      "name": "日志分页、筛选、导出",
+      "acceptance": "下一页与上一页记录不重复；CSV 含筛选后的日志",
+      "implementation": [
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json",
+        "docs/browser-results.json",
+        "docs/completion/browser-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "AI06",
+      "name": "持久化多轮会话",
+      "acceptance": "实际模型第二轮准确复述第一轮指定代号，刷新四条消息仍在",
+      "implementation": [
+        "lib/ai.mjs",
+        "app/api/[...path]/route.js",
+        "lib/modules.mjs"
+      ],
+      "evidence": [
+        "docs/completion/full-ai-regression-blocked.json",
+        "docs/completion/ai-features.json",
+        "docs/completion/ai-blocker.json",
+        "docs/completion/api-results.json",
+        "docs/completion/ai-success-evidence.json",
+        "docs/completion/ai-search-validation.json",
+        "docs/completion/final-build-search.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "余额恢复后真实调用通过；五项 AI 功能、两模型连接、多轮上下文均有实际成功记录。"
+    },
+    {
+      "id": "AI07",
+      "name": "会话重命名、归档和恢复",
+      "acceptance": "其他用户查对话 404；归档发送 409；恢复重新出现在列表",
+      "implementation": [
+        "lib/modules.mjs",
+        "app/components/ModulePanels.jsx"
+      ],
+      "evidence": [
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B07",
+      "name": "编辑冲突与历史不可变",
+      "acceptance": "并发旧窗口编辑 409；历史文件移除 409",
+      "implementation": [
+        "lib/auth.mjs",
+        "lib/modules.mjs",
+        "app/api/[...path]/route.js"
+      ],
+      "evidence": [
+        "docs/test-results.json",
+        "docs/completion/api-results.json"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    },
+    {
+      "id": "B08",
+      "name": "增量迁移与兼容部署",
+      "acceptance": "迁移可重复执行；生产 IP:3040 健康检查通过",
+      "implementation": [
+        "/etc/systemd/system/sharecreators.service"
+      ],
+      "evidence": [
+        "docs/completion/deployment-health.json",
+        "database/schema.sql",
+        "scripts/migrate-complete.mjs"
+      ],
+      "status": "implemented_with_verification",
+      "note": "接口测试、浏览器验收与源码规则相互印证；详见对应证据"
+    }
+  ],
+  "latestAIRecheck": "docs/completion/ai-features.json",
+  "finalAuditAt": "2026-10-12T17:32:47.703551+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-10-12T17:19:03.557Z",
+  "results": [
+    {
+      "name": "未登录不能读取业务数据",
+      "passed": true
+    },
+    {
+      "name": "五类测试身份可登录",
+      "passed": true
+    },
+    {
+      "name": "非管理员无法读取管理后台",
+      "passed": true
+    },
+    {
+      "name": "外包任务与资产库访问隔离",
+      "passed": true
+    },
+    {
+      "name": "拒绝伪造图片文件",
+      "passed": true
+    },
+    {
+      "name": "拒绝不支持的上传格式",
+      "passed": true
+    },
+    {
+      "name": "缺少贴图不能提交且已上传文件仍保留",
+      "passed": true
+    },
+    {
+      "name": "不能通过文件编号绕过任务权限",
+      "passed": true
+    },
+    {
+      "name": "审阅期间禁止重复提交",
+      "passed": true
+    },
+    {
+      "name": "未解决评论阻止验收",
+      "passed": true
+    },
+    {
+      "name": "外包不能自行解决审阅意见",
+      "passed": true
+    },
+    {
+      "name": "要求修改后的素材不进入正式库",
+      "passed": true
+    },
+    {
+      "name": "V2 保留 V1 文件、位置评论和回复",
+      "passed": true
+    },
+    {
+      "name": "拒绝跨版本回复及验收旧版本",
+      "passed": true
+    },
+    {
+      "name": "通过后正式库锁定验收版本",
+      "passed": true
+    },
+    {
+      "name": "确认授权后可复用到新项目",
+      "passed": true
+    },
+    {
+      "name": "新版本审阅期间库内保留上一验收版",
+      "passed": true
+    },
+    {
+      "name": "新版通知使用者且确认前不自动升级",
+      "passed": true
+    },
+    {
+      "name": "后端拒绝超出授权范围的复用",
+      "passed": true
+    },
+    {
+      "name": "收藏可保存与取消",
+      "passed": true
+    },
+    {
+      "name": "拒绝跨站来源写操作",
+      "passed": true
+    },
+    {
+      "name": "停用账号立即撤销已有会话",
+      "passed": true
+    }
+  ]
+}

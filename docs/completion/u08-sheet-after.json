@@ -1,0 +1,344 @@
+{
+  "approx_char_count": 3378,
+  "has_more": false,
+  "ranges": [
+    {
+      "actual_range": "A9:J9",
+      "cells": [
+        [
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "background_color": "#F0F6F1",
+              "font_color": "#33483B",
+              "font_size": 11,
+              "font_weight": "bold",
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "U08"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "AI 历史"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "个人 AI 记录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "所有成员"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "分页查看本人各项 AI 请求和结果，点击回看完整正文"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "其他成员请求正文不可见；失败记录保留状态"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "历史刷新后仍存在且仅显示本人记录"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "/assistant/history"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            },
+            "value": "P0"
+          },
+          {
+            "border_styles": {
+              "bottom": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "left": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "right": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              },
+              "top": {
+                "color": "#E2E9E3",
+                "style": "solid",
+                "weight": "thin"
+              }
+            },
+            "cell_styles": {
+              "font_color": "#33483B",
+              "font_size": 11,
+              "number_format": "@",
+              "vertical_alignment": "middle"
+            }
+          }
+        ]
+      ],
+      "col_indices": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ],
+      "range": "A9:J9",
+      "row_indices": [
+        9
+      ],
+      "truncated": false
+    }
+  ],
+  "returned_cell_count": 10,
+  "revision": 87,
+  "warning_message": "处理 ranges[n].cells 之前，必须先查看顶层 has_more，以及每个 range 的 actual_range / row_indices / col_indices。定位真实行号时用 row_indices[i]，定位真实列字母时用 col_indices[j]，不要按二维数组下标自己数行列；skip_hidden=true、skip_filter=true 或结果被截断时，这样会错位。"
+}
