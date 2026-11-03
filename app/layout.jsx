@@ -8,7 +8,7 @@ export const viewport = {
   viewportFit: "cover",
 };
 export const metadata = {
-  title: "ShareCreators · 游戏美术协作空间",
+  title: "创意资产协作工具 · 游戏美术协作空间",
   description: "从灵感到交付，让每一份创作成为可复用的资产。",
 };
 export default function Layout({ children }) {

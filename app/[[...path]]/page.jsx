@@ -239,7 +239,7 @@ function Brand() {
       <span className="brand-icon">
         <Layers size={21} />
       </span>
-      ShareCreators<span className="brand-dot">.</span>
+      创意资产协作工具<span className="brand-dot">.</span>
     </span>
   );
 }
@@ -672,7 +672,7 @@ function Workspace({ path }) {
         </header>
         <main className="content">{content}</main>
         <footer className="app-footer">
-          <span>ShareCreators · 为每一次创作提供连接</span>
+          <span>创意资产协作工具 · 为每一次创作提供连接</span>
           <span>示例资产用于演示 · 模型文件支持三维预览</span>
         </footer>
       </div>

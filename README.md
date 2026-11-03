@@ -1,6 +1,6 @@
-# ShareCreators · 创意资产协作平台
+# 创意资产协作工具
 
-ShareCreators 是面向创意团队的项目、任务和数字资产协作系统，支持素材上传、版本管理、在线审阅、批注、任务流转、团队协同、AI 助手和运营后台。
+创意资产协作工具是面向创意团队的项目、任务和数字资产协作系统，支持素材上传、版本管理、在线审阅、批注、任务流转、团队协同、AI 助手和运营后台。
 
 ## 主要功能
 
@@ -33,8 +33,8 @@ ShareCreators 是面向创意团队的项目、任务和数字资产协作系统
 ## 本地安装
 
 ```bash
-git clone https://github.com/CharlesYin1204/sharecreators.git
-cd sharecreators
+git clone https://github.com/CharlesYin1204/creative-assets-tool.git
+cd creative-assets-tool
 npm ci
 cp .env.example .env.local
 npm run migrate
